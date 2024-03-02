@@ -1,0 +1,858 @@
+year,state,conflict_name,num_events
+1990,Gongola state,Jukun - Tiv,1
+1990,Rivers state,Government of Nigeria - Civilians,1
+1991,Bauchi state,Christians (Nigeria) - Muslims (Nigeria),1
+1991,Kano state,Christians (Nigeria) - Muslims (Nigeria),1
+1991,Taraba state,Jukun - Tiv,1
+1992,Akwa Ibom state,Efik - Ibibio,1
+1992,Kaduna state,Atyap - Hausa,1
+1992,Lagos state,Government of Nigeria - Civilians,1
+1992,Rivers state,Ogoni - Okrika (Ijaw),1
+1992,Taraba state,Christians (Nigeria) - Muslims (Nigeria),1
+1992,Taraba state,Jukun - Tiv,1
+1993,Lagos state,Government of Nigeria - Civilians,1
+1993,Rivers state,Adoni - Ogoni,1
+1993,Rivers state,Government of Nigeria - Civilians,1
+1993,Rivers state,Ogoni - Okrika (Ijaw),1
+1993,Taraba state,Jukun - Tiv,1
+1994,Akwa Ibom state,Government of Cameroon - Civilians,1
+1994,Lagos state,Government of Nigeria - Civilians,1
+1994,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+1994,Rivers state,Government of Nigeria - Civilians,1
+1994,Rivers state,Ndoki - Ogoni,1
+1995,Akwa Ibom state,Government of Nigeria - Civilians,1
+1996,Delta state,Government of Nigeria - Civilians,1
+1996,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+1996,Lagos state,Government of Nigeria - Civilians,1
+1996,Rivers state,Government of Nigeria - Civilians,1
+1996,Taraba state,Fulani - Karimjo,1
+1997,Bayelsa state,Government of Nigeria - Civilians,1
+1997,Delta state,Ijaw - Itsekiri,1
+1997,Delta state,Ijaw - Urhobo,1
+1997,Nasarawa state,Bassa Kwomu - Egbura Mozum,1
+1997,Osun state,Ife - Modakeke,1
+1997,Rivers state,Government of Nigeria - Civilians,1
+1998,Bayelsa state,Government of Nigeria - Civilians,1
+1998,Benue state,Igbo - Tiv,1
+1998,Delta state,Bini - Urhobo,1
+1998,Delta state,Government of Nigeria - Civilians,1
+1998,Delta state,Ijaw - Itsekiri,1
+1998,Delta state,Ijaw - Urhobo,1
+1998,Kaduna state,Government of Nigeria - Civilians,1
+1998,Kano state,Government of Nigeria - Civilians,1
+1998,Kano state,Supporters of ANPP - Supporters of PDP,1
+1998,Lagos state,Government of Nigeria - Civilians,1
+1998,Lagos state,Hausa - Yoruba,1
+1998,Ondo state,Government of Nigeria - Civilians,1
+1998,Ondo state,Ijaw - Ilaje,1
+1998,Osun state,Ife - Modakeke,1
+1998,Oyo state,Fulani - Yoruba,1
+1998,Oyo state,Government of Nigeria - Civilians,1
+1998,Oyo state,Hausa - Yoruba,1
+1998,Rivers state,Government of Nigeria - Civilians,1
+1999,Anambra state,Aguleri - Umuleri,1
+1999,Bayelsa state,Government of Nigeria - Civilians,1
+1999,Delta state,Government of Nigeria - Civilians,1
+1999,Delta state,Ijaw - Itsekiri,1
+1999,Delta state,"Ijaw, Urhobo - Itsekiri",1
+1999,Delta state,Oleh (Isoko) - Olmoro (Isoko),1
+1999,Enugu state,Government of Nigeria - Civilians,1
+1999,Kaduna state,Hausa - Ninzam,1
+1999,Kano state,Hausa - Yoruba,1
+1999,Ogun state,Hausa - Yoruba,1
+1999,Ondo state,Ijaw - Ilaje,1
+1999,Rivers state,Eleme - Okrika (Ijaw),1
+1999,Rivers state,Government of Nigeria - Civilians,1
+1999,Taraba state,Fulani - Wurukum,1
+2000,Abia state,Government of Nigeria - Civilians,1
+2000,Akwa Ibom state,Efik - Ibibio,1
+2000,Anambra state,Bakassi boys - Civilians,1
+2000,Anambra state,Government of Nigeria - Civilians,1
+2000,Bayelsa state,Isenasawo - Isongo-furo,1
+2000,Cross River state,Efik - Ibibio,1
+2000,Gombe state,Christians (Nigeria) - Muslims (Nigeria),1
+2000,Kaduna state,Government of Nigeria - Civilians,1
+2000,Lagos state,Government of Nigeria - Civilians,1
+2000,Lagos state,Hausa - Yoruba,1
+2000,Osun state,Ife - Modakeke,1
+2000,Oyo state,Hausa - Yoruba,1
+2000,Rivers state,Eleme - Okrika (Ijaw),1
+2001,Anambra state,Government of Nigeria - Civilians,1
+2001,Benue state,Government of Nigeria - Civilians,1
+2001,Benue state,Jukun - Tiv,1
+2001,Imo state,Bakassi boys - Civilians,1
+2001,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2001,Kaduna state,Government of Nigeria - Civilians,1
+2001,Kano state,Government of Nigeria - Civilians,1
+2001,Kano state,"Hausa - Igbo, Yoruba",1
+2001,Nasarawa state,Azara - Tiv,1
+2001,Osun state,Christians (Nigeria) - Muslims (Nigeria),1
+2001,Plateau state,"Afisare, Anaguta, Birom - Fulani, Hausa",1
+2001,Plateau state,"Birom - Fulani, Hausa",1
+2001,Plateau state,Kwala - Tiv,1
+2001,Rivers state,Supporters of ANPP - Supporters of PDP,1
+2001,Taraba state,Government of Nigeria - Civilians,1
+2001,Taraba state,Jukun - Tiv,1
+2001,Zamfara state,Supporters of ANPP - Supporters of PDP,1
+2002,Anambra state,Government of Nigeria - Civilians,1
+2002,Bayelsa state,Government of Nigeria - Civilians,1
+2002,Bayelsa state,Isenasawo - Isongo-furo,1
+2002,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2002,Kaduna state,Government of Nigeria - Civilians,1
+2002,Kwara state,Supporters of ANPP - Supporters of PDP,1
+2002,Lagos state,Government of Nigeria - Civilians,1
+2002,Lagos state,Hausa - Yoruba,1
+2002,Oyo state,Black Axe - Eyie,1
+2002,Plateau state,Birom - Fulani,1
+2002,Plateau state,"Birom - Fulani, Hausa",1
+2002,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2002,Plateau state,Hausa - Tarok,1
+2002,Rivers state,Supporters of ANPP - Supporters of PDP,1
+2002,Taraba state,Fulani - Mambila,1
+2003,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2003,Adamawa state,Fulani - Yugur,1
+2003,Bayelsa state,Ijaw - Itsekiri,1
+2003,Bayelsa state,Supporters of ANPP - Supporters of PDP,1
+2003,Bayelsa state,Supporters of PDP - Supporters of UNPP,1
+2003,Benue state,Government of Nigeria - Civilians,1
+2003,Benue state,Supporters of ANPP - Supporters of PDP,1
+2003,Borno state,Christians (Nigeria) - Muslims (Nigeria),1
+2003,Cross River state,Supporters of ANPP - Supporters of PDP,1
+2003,Delta state,FNDIC - Civilians,1
+2003,Delta state,Government of Nigeria - Civilians,1
+2003,Delta state,Ijaw - Itsekiri,1
+2003,Delta state,Ijaw - Urhobo,1
+2003,Delta state,Supporters of AD - Supporters of PDP,1
+2003,Delta state,Supporters of ANPP - Supporters of PDP,1
+2003,Ebonyi state,Supporters of ANPP - Supporters of PDP,1
+2003,Edo state,Supporters of ANPP - Supporters of PDP,1
+2003,Enugu state,Supporters of ANPP - Supporters of PDP,1
+2003,Imo state,Supporters of ANPP - Supporters of PDP,1
+2003,Kano state,Government of Nigeria - Civilians,1
+2003,Kano state,Supporters of ANPP - Supporters of PDP,1
+2003,Kogi state,Supporters of ANPP - Supporters of PDP,1
+2003,Kwara state,Supporters of ANPP - Supporters of PDP,1
+2003,Lagos state,Government of Nigeria - Civilians,1
+2003,Lagos state,Supporters of AD - Supporters of PDP,1
+2003,Nasarawa state,Supporters of ANPP - Supporters of PDP,1
+2003,Rivers state,Supporters of ANPP - Supporters of PDP,1
+2003,Sokoto state,Supporters of ANPP - Supporters of PDP,1
+2003,Yobe state,Nigeria: Northern Nigeria,1
+2004,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2004,Adamawa state,Nigeria: Northern Nigeria,1
+2004,Bayelsa state,Government of Nigeria - Civilians,1
+2004,Benue state,Supporters of ANPP - Supporters of PDP,1
+2004,Borno state,Nigeria: Northern Nigeria,1
+2004,Delta state,Government of Nigeria - Civilians,1
+2004,Delta state,Ijaw - Itsekiri,1
+2004,Ekiti state,Government of Nigeria - Civilians,1
+2004,Kano state,Christians (Nigeria) - Muslims (Nigeria),1
+2004,Kano state,Government of Nigeria - Civilians,1
+2004,Kebbi state,Christians (Nigeria) - Muslims (Nigeria),1
+2004,Ogun state,Black Axe - Eyie,1
+2004,Ondo state,Ijaw - Ilaje,1
+2004,Osun state,Government of Nigeria - Civilians,1
+2004,Oyo state,Black Axe - Eyie,1
+2004,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2004,Plateau state,Fulani - Tarok,1
+2004,Rivers state,NDPVF - NDV,1
+2004,Rivers state,Nigeria: Niger Delta,1
+2004,Taraba state,Fulani - Tarok,1
+2004,Yobe state,Nigeria: Northern Nigeria,1
+2005,Anambra state,Government of Nigeria - Civilians,1
+2005,Benue state,Fulani - Tiv,1
+2005,Benue state,Government of Nigeria - Civilians,1
+2005,Benue state,Supporters of ANPP - Supporters of PDP,1
+2005,Delta state,Government of Nigeria - Civilians,1
+2005,Edo state,Black Axe - Eyie,1
+2005,Edo state,Government of Nigeria - Civilians,1
+2005,Lagos state,Government of Nigeria - Civilians,1
+2005,Rivers state,Deebam - Deewell,1
+2005,Rivers state,Forces of Agala - Forces of Edu,1
+2006,Anambra state,Christians (Nigeria) - Muslims (Nigeria),1
+2006,Bauchi state,Christians (Nigeria) - Muslims (Nigeria),1
+2006,Borno state,Christians (Nigeria) - Muslims (Nigeria),1
+2006,Edo state,Black Axe - Eyie,1
+2006,Enugu state,Christians (Nigeria) - Muslims (Nigeria),1
+2006,Enugu state,Hausa - Igbo,1
+2006,Niger state,Christians (Nigeria) - Muslims (Nigeria),1
+2006,Plateau state,Gamai - Pan,1
+2006,Rivers state,Deebam - Deewell,1
+2006,Rivers state,Government of Nigeria - Civilians,1
+2007,Anambra state,Government of Nigeria - Civilians,1
+2007,Bauchi state,Christians (Nigeria) - Muslims (Nigeria),1
+2007,Bauchi state,Supporters of ANPP - Supporters of PDP,1
+2007,Delta state,Black Axe - Maphite,1
+2007,Enugu state,Government of Nigeria - Civilians,1
+2007,Gombe state,Christians (Nigeria) - Muslims (Nigeria),1
+2007,Kano state,Christians (Nigeria) - Muslims (Nigeria),1
+2007,Lagos state,Black Axe - Eyie,1
+2007,Oyo state,Supporters of ANPP - Supporters of PDP,1
+2007,Rivers state,"Black Axe, Bush Boys, Deebam, KK, NDV - Outlaws",1
+2007,Rivers state,Deebam - Deewell,1
+2007,Rivers state,Government of Nigeria - Civilians,1
+2008,Adamawa state,Supporters of ACN - Supporters of PDP,1
+2008,Bayelsa state,Deebam - Deewell,1
+2008,Bayelsa state,Government of Nigeria - Civilians,1
+2008,Benue state,Fulani - Tiv,1
+2008,Delta state,Government of Nigeria - Civilians,1
+2008,Ebonyi state,Ezilo - Ezza,1
+2008,Edo state,Black Axe - Eyie,1
+2008,Enugu state,Government of Nigeria - Civilians,1
+2008,Imo state,Government of Nigeria - Civilians,1
+2008,Kaduna state,Government of Nigeria - Civilians,1
+2008,Kogi state,Supporters of ACN - Supporters of PDP,1
+2008,Lagos state,Government of Nigeria - Civilians,1
+2008,Plateau state,"Afisare, Anaguta, Birom - Fulani, Hausa",1
+2008,Plateau state,Government of Nigeria - Civilians,1
+2008,Rivers state,Deebam - Deewell,1
+2008,Rivers state,Government of Nigeria - Civilians,1
+2009,Adamawa state,Nigeria: Government,1
+2009,Bauchi state,Christians (Nigeria) - Muslims (Nigeria),1
+2009,Bauchi state,Nigeria: Government,1
+2009,Bayelsa state,Greenlanders - NDV,1
+2009,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2009,Borno state,Nigeria: Government,1
+2009,Delta state,Government of Nigeria - Civilians,1
+2009,Delta state,Greenlanders - NDV,1
+2009,Ebonyi state,Ezilo - Ezza,1
+2009,Edo state,Black Axe - Eyie,1
+2009,Edo state,Black Axe - Maphite,1
+2009,Ekiti state,Supporters of ACN - Supporters of PDP,1
+2009,Enugu state,Government of Nigeria - Civilians,1
+2009,Kano state,Nigeria: Government,1
+2009,Lagos state,Black Axe - Eyie,1
+2009,Nasarawa state,Afor - Fulani,1
+2009,Niger state,Government of Nigeria - Civilians,1
+2009,Rivers state,Deebam - Deewell,1
+2009,Rivers state,Government of Nigeria - Civilians,1
+2009,Rivers state,Greenlanders - NDV,1
+2009,Rivers state,Nigeria: Niger Delta,1
+2009,Yobe state,Nigeria: Government,1
+2010,Bauchi state,Birom - Fulani,1
+2010,Bauchi state,Christians (Nigeria) - Muslims (Nigeria),1
+2010,Bauchi state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2010,Bauchi state,Nigeria: Government,1
+2010,Benue state,Fulani - Tiv,1
+2010,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2010,Borno state,Nigeria: Government,1
+2010,Cross River state,Boje - Nsadop,1
+2010,Ebonyi state,Ezilo - Ezza,1
+2010,Edo state,Black Axe - Eyie,1
+2010,Edo state,Black Axe - Maphite,1
+2010,Kaduna state,Birom - Fulani,1
+2010,Lagos state,Hausa - Yoruba,1
+2010,Ogun state,Black Axe - Eyie,1
+2010,Plateau state,Birom - Fulani,1
+2010,Plateau state,"Birom - Fulani, Hausa",1
+2010,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2010,Plateau state,Fulani - Irigwe,1
+2010,Plateau state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2010,Rivers state,Deebam - Deewell,1
+2010,Rivers state,Government of Nigeria - Civilians,1
+2010,Taraba state,Christians (Nigeria) - Muslims (Nigeria),1
+2010,Yobe state,Nigeria: Government,1
+2010,Zamfara state,Supporters of ANPP - Supporters of PDP,1
+2011,Abia state,Government of Nigeria - Civilians,1
+2011,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Adamawa state,Nigeria: Government,1
+2011,Akwa Ibom state,Government of Cameroon - Civilians,1
+2011,Akwa Ibom state,Government of Nigeria - Civilians,1
+2011,Akwa Ibom state,Supporters of ACN - Supporters of PDP,1
+2011,Anambra state,Government of Nigeria - Civilians,1
+2011,Bauchi state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Bauchi state,Hausa - Sayawa,1
+2011,Bauchi state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2011,Bauchi state,Nigeria: Government,1
+2011,Bauchi state,Supporters of ACN - Supporters of PDP,1
+2011,Bayelsa state,Government of Nigeria - Civilians,1
+2011,Bayelsa state,Greenlanders - NDV,1
+2011,Benue state,Fulani - Tiv,1
+2011,Benue state,Government of Nigeria - Civilians,1
+2011,Benue state,Supporters of ACN - Supporters of PDP,1
+2011,Borno state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Borno state,Government of Nigeria - Civilians,1
+2011,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2011,Borno state,Nigeria: Government,1
+2011,Delta state,Black Axe - Maphite,1
+2011,Delta state,Government of Nigeria - Civilians,1
+2011,Ebonyi state,Ezilo - Ezza,1
+2011,Ebonyi state,Supporters of ANPP - Supporters of PDP,1
+2011,Edo state,Black Axe - Eyie,1
+2011,Edo state,Supporters of ACN - Supporters of PDP,1
+2011,Ekiti state,Supporters of ACN - Supporters of PDP,1
+2011,Federal Capital territory,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2011,Federal Capital territory,Nigeria: Government,1
+2011,Gombe state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Gombe state,Nigeria: Government,1
+2011,Jigawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Jigawa state,Supporters of ACN - Supporters of PDP,1
+2011,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Kaduna state,Government of Nigeria - Civilians,1
+2011,Kaduna state,Nigeria: Government,1
+2011,Kano state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Kano state,Government of Nigeria - Civilians,1
+2011,Kano state,Nigeria: Government,1
+2011,Katsina state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Katsina state,Government of Nigeria - Civilians,1
+2011,Katsina state,Nigeria: Government,1
+2011,Lagos state,Black Axe - Eyie,1
+2011,Lagos state,Government of Nigeria - Civilians,1
+2011,Lagos state,Supporters of ACN - Supporters of PDP,1
+2011,Nasarawa state,Fulani - Tiv,1
+2011,Nasarawa state,Government of Nigeria - Civilians,1
+2011,Niger state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Niger state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2011,Ogun state,Black Axe - Eyie,1
+2011,Ondo state,Government of Nigeria - Civilians,1
+2011,Oyo state,NURTW-Auxiliary - NURTW-Tokyo,1
+2011,Oyo state,Supporters of ACN - Supporters of PDP,1
+2011,Plateau state,Birom - Fulani,1
+2011,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Plateau state,Government of Nigeria - Civilians,1
+2011,Plateau state,Nigeria: Government,1
+2011,Rivers state,Deebam - Deewell,1
+2011,Rivers state,Government of Nigeria - Civilians,1
+2011,Rivers state,Greenlanders - NDV,1
+2011,Rivers state,Supporters of ACN - Supporters of PDP,1
+2011,Sokoto state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Sokoto state,Nigeria: Government,1
+2011,Taraba state,Fulani - Tiv,1
+2011,Yobe state,Christians (Nigeria) - Muslims (Nigeria),1
+2011,Yobe state,Nigeria: Government,1
+2011,Zamfara state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Adamawa state,Nigeria: Government,1
+2012,Bauchi state,Hausa - Sayawa,1
+2012,Bauchi state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Bauchi state,Nigeria: Government,1
+2012,Bayelsa state,Government of Nigeria - Civilians,1
+2012,Bayelsa state,Greenlanders - NDV,1
+2012,Benue state,Fulani - Tiv,1
+2012,Benue state,Supporters of ACN - Supporters of PDP,1
+2012,Borno state,Government of Nigeria - Civilians,1
+2012,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Borno state,Nigeria: Government,1
+2012,Cross River state,Boje - Nsadop,1
+2012,Cross River state,Ikpanya (Ibibio) - Efik,1
+2012,Edo state,Black Axe - Eyie,1
+2012,Edo state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Edo state,Supporters of ACN - Supporters of PDP,1
+2012,Federal Capital territory,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Gombe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Gombe state,Nigeria: Government,1
+2012,Jigawa state,Nigeria: Government,1
+2012,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Kaduna state,Government of Nigeria - Civilians,1
+2012,Kaduna state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Kaduna state,Nigeria: Government,1
+2012,Kano state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Kano state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Kano state,Nigeria: Government,1
+2012,Kogi state,Government of Nigeria - Civilians,1
+2012,Kogi state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Kogi state,Nigeria: Government,1
+2012,Lagos state,Black Axe - Eyie,1
+2012,Lagos state,Hausa - Yoruba,1
+2012,Nasarawa state,Alago - Eggon,1
+2012,Nasarawa state,Fulani - Tiv,1
+2012,Niger state,Nigeria: Government,1
+2012,Ogun state,Black Axe - Eyie,1
+2012,Plateau state,Birom - Fulani,1
+2012,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Plateau state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Plateau state,Nigeria: Government,1
+2012,Rivers state,Government of Nigeria - Civilians,1
+2012,Rivers state,Greenlanders - NDV,1
+2012,Sokoto state,Nigeria: Government,1
+2012,Taraba state,Bwatiye - Fulani,1
+2012,Taraba state,Christians (Nigeria) - Muslims (Nigeria),1
+2012,Taraba state,Fulani - Tiv,1
+2012,Taraba state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Taraba state,Nigeria: Government,1
+2012,Yobe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2012,Yobe state,Nigeria: Government,1
+2013,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2013,Adamawa state,Nigeria: Government,1
+2013,Bauchi state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Bauchi state,Nigeria: Government,1
+2013,Benue state,Agatu - Fulani,1
+2013,Benue state,Agatu - Tiv,1
+2013,Benue state,Fulani - Tiv,1
+2013,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2013,Borno state,Nigeria: Government,1
+2013,Delta state,Government of Nigeria - Civilians,1
+2013,Edo state,Black Axe - Eyie,1
+2013,Edo state,Supporters of ACN - Supporters of PDP,1
+2013,Gombe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Gombe state,Nigeria: Government,1
+2013,Jigawa state,Nigeria: Government,1
+2013,Kaduna state,Atakar - Fulani,1
+2013,Kaduna state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Kano state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Kano state,Nigeria: Government,1
+2013,Katsina state,Nigeria: Government,1
+2013,Kogi state,Government of Nigeria - Civilians,1
+2013,Kogi state,Supporters of ACN - Supporters of PDP,1
+2013,Kwara state,Fulani - Yoruba,1
+2013,Lagos state,Black Axe - Eyie,1
+2013,Nasarawa state,Agatu - Tiv,1
+2013,Nasarawa state,Alago - Eggon,1
+2013,Nasarawa state,Eggon - Fulani,1
+2013,Nasarawa state,Fulani - Tiv,1
+2013,Plateau state,Atakar - Fulani,1
+2013,Plateau state,Birom - Fulani,1
+2013,Plateau state,Fulani - Tarok,1
+2013,Plateau state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Rivers state,Deebam - Deewell,1
+2013,Rivers state,Greenlanders - NDV,1
+2013,Sokoto state,Nigeria: Government,1
+2013,Taraba state,Fulani - Tarok,1
+2013,Taraba state,Hausa - Jukun,1
+2013,Taraba state,Kuteb - Tiv,1
+2013,Taraba state,Nigeria: Government,1
+2013,Yobe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2013,Yobe state,Nigeria: Government,1
+2014,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2014,Adamawa state,Nigeria: Government,1
+2014,Anambra state,Government of Nigeria - Civilians,1
+2014,Bauchi state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Bauchi state,Nigeria: Government,1
+2014,Benue state,Agatu - Fulani,1
+2014,Benue state,Fulani - Tiv,1
+2014,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2014,Borno state,Nigeria: Government,1
+2014,Edo state,Black Axe - Eyie,1
+2014,Edo state,Black Axe - Maphite,1
+2014,Ekiti state,Nigeria: Government,1
+2014,Federal Capital territory,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Federal Capital territory,Nigeria: Government,1
+2014,Gombe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Gombe state,Nigeria: Government,1
+2014,Jigawa state,Nigeria: Government,1
+2014,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2014,Kaduna state,Government of Nigeria - Civilians,1
+2014,Kaduna state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Kaduna state,Nigeria: Government,1
+2014,Kano state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Katsina state,Nigeria: Government,1
+2014,Kogi state,Nigeria: Government,1
+2014,Kwara state,Fulani - Yoruba,1
+2014,Kwara state,Supporters of APC - Supporters of PDP,1
+2014,Lagos state,Black Axe - Eyie,1
+2014,Lagos state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Nasarawa state,Alago - Eggon,1
+2014,Nasarawa state,Eggon - Fulani,1
+2014,Nasarawa state,Eggon - Gwandere,1
+2014,Niger state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Ogun state,Black Axe - Eyie,1
+2014,Osun state,Supporters of APC - Supporters of PDP,1
+2014,Plateau state,Atakar - Fulani,1
+2014,Plateau state,Birom - Fulani,1
+2014,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2014,Plateau state,Fulani - Tarok,1
+2014,Plateau state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Plateau state,Nigeria: Government,1
+2014,Rivers state,Deebam - Deewell,1
+2014,Rivers state,Greenlanders - NDV,1
+2014,Rivers state,Ogoni - Okrika (Ijaw),1
+2014,Taraba state,Christians (Nigeria) - Muslims (Nigeria),1
+2014,Taraba state,Fulani - Jukun,1
+2014,Taraba state,Fulani - Tiv,1
+2014,Taraba state,Hausa - Jukun,1
+2014,Yobe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2014,Yobe state,Nigeria: Government,1
+2015,Adamawa state,IS - Civilians,1
+2015,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2015,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2015,Adamawa state,Nigeria: Government,1
+2015,Adamawa state,Nigeria: Islamic State,1
+2015,Anambra state,Government of Nigeria - Civilians,1
+2015,Bauchi state,Nigeria: Islamic State,1
+2015,Benue state,Agatu - Fulani,1
+2015,Benue state,Fulani - Tiv,1
+2015,Borno state,Cameroon: Islamic State,1
+2015,Borno state,IS - Civilians,1
+2015,Borno state,IS - Yan Gora,1
+2015,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2015,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2015,Borno state,Nigeria: Government,1
+2015,Borno state,Nigeria: Islamic State,1
+2015,Edo state,Black Axe - Eyie,1
+2015,Edo state,Black Axe - Maphite,1
+2015,Federal Capital territory,Nigeria: Islamic State,1
+2015,Gombe state,IS - Civilians,1
+2015,Gombe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2015,Gombe state,Nigeria: Government,1
+2015,Gombe state,Nigeria: Islamic State,1
+2015,Imo state,Deebam - Deewell,1
+2015,Kaduna state,Atakar - Fulani,1
+2015,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2015,Kaduna state,Government of Nigeria - Civilians,1
+2015,Kaduna state,IS - Civilians,1
+2015,Kaduna state,Nigeria: Islamic State,1
+2015,Kaduna state,Supporters of APC - Supporters of PDP,1
+2015,Kano state,IS - Civilians,1
+2015,Kano state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2015,Kano state,Nigeria: Government,1
+2015,Kano state,Supporters of APC - Supporters of PDP,1
+2015,Kogi state,Agatu - Fulani,1
+2015,Kogi state,Nigeria: Islamic State,1
+2015,Kwara state,Black Axe - Eyie,1
+2015,Kwara state,Fulani - Yoruba,1
+2015,Lagos state,Black Axe - Eyie,1
+2015,Lagos state,Supporters of APC - Supporters of PDP,1
+2015,Nasarawa state,Agatu - Fulani,1
+2015,Ogun state,Black Axe - Eyie,1
+2015,Ogun state,Fulani - Yoruba,1
+2015,Ondo state,Black Axe - Eyie,1
+2015,Osun state,Supporters of APC - Supporters of PDP,1
+2015,Plateau state,Birom - Fulani,1
+2015,Plateau state,Christians (Nigeria) - Muslims (Nigeria),1
+2015,Plateau state,Fulani - Tarok,1
+2015,Plateau state,Government of Nigeria - Civilians,1
+2015,Plateau state,IS - Civilians,1
+2015,Plateau state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2015,Plateau state,Nigeria: Islamic State,1
+2015,Rivers state,Deebam - Deewell,1
+2015,Rivers state,Government of Nigeria - Civilians,1
+2015,Rivers state,Greenlanders - NDV,1
+2015,Rivers state,Ogoni - Okrika (Ijaw),1
+2015,Rivers state,Supporters of APC - Supporters of PDP,1
+2015,Taraba state,Fulani - Jukun,1
+2015,Taraba state,Fulani - Tiv,1
+2015,Taraba state,Kuteb - Tiv,1
+2015,Taraba state,Supporters of APC - Supporters of PDP,1
+2015,Yobe state,IS - Civilians,1
+2015,Yobe state,IS - Yan Gora,1
+2015,Yobe state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2015,Yobe state,Nigeria: Government,1
+2015,Yobe state,Nigeria: Islamic State,1
+2016,Abia state,Government of Nigeria - Civilians,1
+2016,Abia state,Hausa - Igbo,1
+2016,Adamawa state,Bwatiye - Fulani,1
+2016,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2016,Adamawa state,IS - Civilians,1
+2016,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2016,Adamawa state,Nigeria: Islamic State,1
+2016,Akwa Ibom state,Ikot-Offiong community - Oku Iboku community,1
+2016,Anambra state,Government of Nigeria - Civilians,1
+2016,Bayelsa state,Supporters of APC - Supporters of PDP,1
+2016,Benue state,Agatu - Fulani,1
+2016,Benue state,Fulani - Tiv,1
+2016,Benue state,Jukun - Tiv,1
+2016,Borno state,Cameroon: Islamic State,1
+2016,Borno state,IS - Civilians,1
+2016,Borno state,IS - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+2016,Borno state,IS - Yan Gora,1
+2016,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2016,Borno state,Nigeria: Government,1
+2016,Borno state,Nigeria: Islamic State,1
+2016,Delta state,Black Axe - Eyie,1
+2016,Delta state,Government of Nigeria - Civilians,1
+2016,Edo state,Black Axe - Eyie,1
+2016,Edo state,Black Axe - Maphite,1
+2016,Imo state,Deebam - Deewell,1
+2016,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2016,Kano state,Christians (Nigeria) - Muslims (Nigeria),1
+2016,Kogi state,Bassa Kwomu - Egbura Mozum,1
+2016,Lagos state,Black Axe - Eyie,1
+2016,Lagos state,Hausa - Yoruba,1
+2016,Nasarawa state,Agatu - Fulani,1
+2016,Nasarawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2016,Nasarawa state,Eggon - Fulani,1
+2016,Niger state,Christians (Nigeria) - Muslims (Nigeria),1
+2016,Niger state,Supporters of APC - Supporters of PDP,1
+2016,Ogun state,Black Axe - Eyie,1
+2016,Oyo state,Black Axe - Eyie,1
+2016,Rivers state,Deebam - NDV,1
+2016,Rivers state,Greenlanders - NDV,1
+2016,Rivers state,Supporters of APC - Supporters of PDP,1
+2016,Taraba state,Fulani - Tiv,1
+2016,Yobe state,IS - Civilians,1
+2016,Yobe state,Nigeria: Islamic State,1
+2017,Adamawa state,Bwatiye - Fulani,1
+2017,Adamawa state,Government of Nigeria - Civilians,1
+2017,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2017,Adamawa state,Nigeria: Government,1
+2017,Akwa Ibom state,Deebam - NDV,1
+2017,Akwa Ibom state,Ikot-Offiong community - Oku Iboku community,1
+2017,Benue state,Agatu - Fulani,1
+2017,Benue state,Fulani - Tiv,1
+2017,Benue state,Jukun - Tiv,1
+2017,Benue state,Supporters of APC - Supporters of PDP,1
+2017,Borno state,IS - Civilians,1
+2017,Borno state,IS - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+2017,Borno state,IS - Yan Gora,1
+2017,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2017,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2017,Borno state,Nigeria: Government,1
+2017,Borno state,Nigeria: Islamic State,1
+2017,Cross River state,Wanhihem community - Wanikade community,1
+2017,Delta state,Government of Nigeria - Civilians,1
+2017,Kaduna state,Atakar - Fulani,1
+2017,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2017,Kaduna state,Fulani - Kadara,1
+2017,Kano state,Government of Nigeria - Civilians,1
+2017,Kwara state,Black Axe - Eyie,1
+2017,Lagos state,Black Axe - Eyie,1
+2017,Ogun state,Black Axe - Eyie,1
+2017,Ondo state,Black Axe - Eyie,1
+2017,Ondo state,Fulani - Yoruba,1
+2017,Osun state,Hausa - Yoruba,1
+2017,Oyo state,Fulani - Yoruba,1
+2017,Plateau state,Birom - Fulani,1
+2017,Plateau state,Fulani - Irigwe,1
+2017,Plateau state,Fulani - Tarok,1
+2017,Plateau state,Hausa - Igbo,1
+2017,Rivers state,Deebam - NDV,1
+2017,Taraba state,Fulani - Mambila,1
+2017,Taraba state,Fulani - Tiv,1
+2017,Yobe state,IS - Civilians,1
+2017,Yobe state,IS - Yan Gora,1
+2017,Yobe state,Nigeria: Islamic State,1
+2018,Adamawa state,Bwatiye - Fulani,1
+2018,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2018,Adamawa state,Fulani - Yandang,1
+2018,Adamawa state,Fulani - Yugur,1
+2018,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2018,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2018,Adamawa state,Lunguda - Waja,1
+2018,Adamawa state,Nigeria: Government,1
+2018,Anambra state,Government of Nigeria - Civilians,1
+2018,Benue state,Agatu - Fulani,1
+2018,Benue state,Fulani - Tiv,1
+2018,Benue state,Government of Nigeria - Civilians,1
+2018,Benue state,Lunguda - Waja,1
+2018,Borno state,IS - Civilians,1
+2018,Borno state,IS - Yan Gora,1
+2018,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2018,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2018,Borno state,Nigeria: Government,1
+2018,Borno state,Nigeria: Islamic State,1
+2018,Cross River state,Cameroon: Ambazonia,1
+2018,Ebonyi state,Fulani - Izzi (Igbo),1
+2018,Ebonyi state,Government of Nigeria - Civilians,1
+2018,Ekiti state,Fulani - Tiv,1
+2018,Federal Capital territory,Government of Nigeria - Civilians,1
+2018,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2018,Kaduna state,Government of Nigeria - Civilians,1
+2018,Kaduna state,Hausa - Kadara,1
+2018,Kogi state,Bassa Kwomu - Egbura Mozum,1
+2018,Kogi state,Fulani - Tiv,1
+2018,Kwara state,Black Axe - Eyie,1
+2018,Lagos state,Black Axe - Eyie,1
+2018,Lagos state,Government of Nigeria - Civilians,1
+2018,Nasarawa state,Bassa Kwomu - Egbura Mozum,1
+2018,Nasarawa state,Fulani - Tiv,1
+2018,Ogun state,Black Axe - Eyie,1
+2018,Ogun state,Fulani - Yoruba,1
+2018,Ondo state,Black Axe - Eyie,1
+2018,Ondo state,Fulani - Yoruba,1
+2018,Osun state,Government of Nigeria - Civilians,1
+2018,Oyo state,Fulani - Yoruba,1
+2018,Plateau state,Birom - Fulani,1
+2018,Plateau state,Fulani - Irigwe,1
+2018,Plateau state,Government of Nigeria - Civilians,1
+2018,Rivers state,Government of Nigeria - Civilians,1
+2018,Taraba state,Bwatiye - Fulani,1
+2018,Taraba state,Christians (Nigeria) - Muslims (Nigeria),1
+2018,Taraba state,Fulani - Mambila,1
+2018,Taraba state,Fulani - Tiv,1
+2018,Taraba state,Fulani - Yandang,1
+2018,Taraba state,Jukun - Tiv,1
+2018,Yobe state,Nigeria: Government,1
+2018,Yobe state,Nigeria: Islamic State,1
+2019,Abia state,Government of Nigeria - Civilians,1
+2019,Adamawa state,Bwatiye - Fulani,1
+2019,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2019,Adamawa state,Nigeria: Government,1
+2019,Anambra state,Government of Nigeria - Civilians,1
+2019,Bauchi state,Hausa - Sayawa,1
+2019,Bayelsa state,Government of Nigeria - Civilians,1
+2019,Bayelsa state,Supporters of APC - Supporters of PDP,1
+2019,Benue state,Abugbe (Agatu) - Agbaduma (Agatu),1
+2019,Benue state,Agatu - Fulani,1
+2019,Benue state,Fulani - Tiv,1
+2019,Benue state,Ikurav (Tiv) - Shitile (Tiv),1
+2019,Benue state,Jukun - Tiv,1
+2019,Borno state,IS - Civilians,1
+2019,Borno state,IS - Yan Gora,1
+2019,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2019,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2019,Borno state,Nigeria: Government,1
+2019,Borno state,Nigeria: Islamic State,1
+2019,Cross River state,Government of Nigeria - Civilians,1
+2019,Cross River state,Supporters of APC - Supporters of PDP,1
+2019,Delta state,Government of Nigeria - Civilians,1
+2019,Delta state,Supporters of APC - Supporters of PDP,1
+2019,Ebonyi state,Izzi (Igbo) - Ukele,1
+2019,Ebonyi state,Supporters of APC - Supporters of PDP,1
+2019,Edo state,Black Axe - Eyie,1
+2019,Edo state,Black Axe - Maphite,1
+2019,Edo state,Government of Nigeria - Civilians,1
+2019,Enugu state,Government of Nigeria - Civilians,1
+2019,Imo state,Government of Nigeria - Civilians,1
+2019,Kaduna state,Atakar - Fulani,1
+2019,Kaduna state,Fulani - Kadara,1
+2019,Kano state,Supporters of APC - Supporters of PDP,1
+2019,Kogi state,Bassa Kwomu - Egbura Mozum,1
+2019,Kogi state,Government of Nigeria - Civilians,1
+2019,Kogi state,Supporters of APC - Supporters of PDP,1
+2019,Lagos state,Black Axe - Eyie,1
+2019,Lagos state,Government of Nigeria - Civilians,1
+2019,Nasarawa state,Bassa Kwomu - Egbura Mozum,1
+2019,Nasarawa state,Fulani - Tiv,1
+2019,Niger state,Government of Nigeria - Civilians,1
+2019,Ogun state,Black Axe - Eyie,1
+2019,Ogun state,Fulani - Yoruba,1
+2019,Ogun state,Government of Nigeria - Civilians,1
+2019,Ondo state,Black Axe - Eyie,1
+2019,Ondo state,Government of Nigeria - Civilians,1
+2019,Ondo state,Supporters of APC - Supporters of PDP,1
+2019,Osun state,Hausa - Yoruba,1
+2019,Oyo state,Government of Nigeria - Civilians,1
+2019,Oyo state,Hausa - Yoruba,1
+2019,Oyo state,Supporters of APC - Supporters of PDP,1
+2019,Plateau state,Atakar - Fulani,1
+2019,Plateau state,Birom - Fulani,1
+2019,Plateau state,Fulani - Irigwe,1
+2019,Rivers state,Deebam - Deewell,1
+2019,Rivers state,Deebam - NDV,1
+2019,Rivers state,Government of Nigeria - Civilians,1
+2019,Sokoto state,Nigeria: Islamic State,1
+2019,Taraba state,Fulani - Jukun,1
+2019,Taraba state,Fulani - Tiv,1
+2019,Taraba state,Jukun - Tiv,1
+2019,Taraba state,Supporters of APC - Supporters of PDP,1
+2019,Yobe state,IS - Yan Gora,1
+2019,Yobe state,Nigeria: Islamic State,1
+2020,Abia state,Government of Nigeria - Civilians,1
+2020,Adamawa state,Chabo - Hausa,1
+2020,Adamawa state,Christians (Nigeria) - Muslims (Nigeria),1
+2020,Adamawa state,Government of Nigeria - Civilians,1
+2020,Adamawa state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2020,Adamawa state,Lunguda - Waja,1
+2020,Adamawa state,Nigeria: Government,1
+2020,Adamawa state,Nigeria: Islamic State,1
+2020,Akwa Ibom state,Deebam - NDV,1
+2020,Anambra state,Government of Nigeria - Civilians,1
+2020,Bauchi state,Government of Nigeria - Civilians,1
+2020,Bayelsa state,Deebam - NDV,1
+2020,Bayelsa state,Government of Nigeria - Civilians,1
+2020,Benue state,Fulani - Tiv,1
+2020,Benue state,Jukun - Tiv,1
+2020,Borno state,IS - Civilians,1
+2020,Borno state,IS - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+2020,Borno state,IS - Yan Gora,1
+2020,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2020,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2020,Borno state,Nigeria: Government,1
+2020,Borno state,Nigeria: Islamic State,1
+2020,Delta state,Bakassi boys - Civilians,1
+2020,Delta state,Black Axe - Maphite,1
+2020,Delta state,Government of Nigeria - Civilians,1
+2020,Ebonyi state,Supporters of APC - Supporters of PDP,1
+2020,Edo state,Black Axe - Eyie,1
+2020,Edo state,Government of Nigeria - Civilians,1
+2020,Gombe state,IS - Yan Gora,1
+2020,Kaduna state,Atakar - Fulani,1
+2020,Kaduna state,Atyap - Fulani,1
+2020,Kaduna state,Christians (Nigeria) - Muslims (Nigeria),1
+2020,Kaduna state,Fulani - Kadara,1
+2020,Kano state,Government of Nigeria - Civilians,1
+2020,Katsina state,Yan Sakai - Civilians,1
+2020,Kogi state,Bassa Kwomu - Egbura Mozum,1
+2020,Kwara state,Black Axe - Eyie,1
+2020,Lagos state,Black Axe - Eyie,1
+2020,Lagos state,Government of Nigeria - Civilians,1
+2020,Lagos state,Hausa - Yoruba,1
+2020,Nasarawa state,Bassa Kwomu - Egbura Mozum,1
+2020,Nasarawa state,Eggon - Fulani,1
+2020,Nasarawa state,Fulani - Tiv,1
+2020,Ondo state,Government of Nigeria - Civilians,1
+2020,Osun state,Black Axe - Eyie,1
+2020,Osun state,Government of Nigeria - Civilians,1
+2020,Oyo state,Fulani - Yoruba,1
+2020,Oyo state,Government of Nigeria - Civilians,1
+2020,Oyo state,Supporters of APC - Supporters of PDP,1
+2020,Plateau state,Birom - Fulani,1
+2020,Plateau state,Fulani - Irigwe,1
+2020,Plateau state,Government of Nigeria - Civilians,1
+2020,Rivers state,Deebam - NDV,1
+2020,Rivers state,Government of Nigeria - Civilians,1
+2020,Rivers state,Greenlanders - NDV,1
+2020,Taraba state,Fulani - Tiv,1
+2020,Taraba state,Ichen - Tiv,1
+2020,Taraba state,Jole - Shomo,1
+2020,Taraba state,Jukun - Tiv,1
+2020,Yobe state,IS - Yan Gora,1
+2020,Yobe state,Nigeria: Islamic State,1
+2020,Zamfara state,Yan Sakai - Civilians,1
+2021,Abia state,Bakassi boys - Civilians,1
+2021,Abia state,Nigeria: Biafra,1
+2021,Adamawa state,IS - Civilians,1
+2021,Adamawa state,IS - Yan Gora,1
+2021,Adamawa state,Nigeria: Islamic State,1
+2021,Akwa Ibom state,Nigeria: Biafra,1
+2021,Anambra state,Government of Nigeria - Civilians,1
+2021,Anambra state,IPOB - Civilians,1
+2021,Anambra state,Nigeria: Biafra,1
+2021,Benue state,Abugbe (Agatu) - Agbaduma (Agatu),1
+2021,Benue state,Bonta Boys - Civilians,1
+2021,Benue state,Ezza - Korri,1
+2021,Benue state,Fulani - Izzi (Igbo),1
+2021,Benue state,Fulani - Tiv,1
+2021,Borno state,IS - Civilians,1
+2021,Borno state,IS - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+2021,Borno state,IS - Yan Gora,1
+2021,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2021,Borno state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,1
+2021,Borno state,Nigeria: Government,1
+2021,Borno state,Nigeria: Islamic State,1
+2021,Delta state,Nigeria: Biafra,1
+2021,Ebonyi state,Ezza - Korri,1
+2021,Ebonyi state,IPOB - Civilians,1
+2021,Ebonyi state,Nigeria: Biafra,1
+2021,Ekiti state,Black Axe - Eyie,1
+2021,Enugu state,Government of Nigeria - Civilians,1
+2021,Enugu state,IPOB - Civilians,1
+2021,Enugu state,Nigeria: Biafra,1
+2021,Gombe state,Lunguda - Waja,1
+2021,Imo state,Government of Nigeria - Civilians,1
+2021,Imo state,IPOB - Civilians,1
+2021,Imo state,Nigeria: Biafra,1
+2021,Kaduna state,Atyap - Fulani,1
+2021,Kwara state,Black Axe - Eyie,1
+2021,Kwara state,Fulani - Yoruba,1
+2021,Lagos state,Black Axe - Eyie,1
+2021,Lagos state,Government of Nigeria - Civilians,1
+2021,Nasarawa state,Fulani - Tiv,1
+2021,Niger state,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,1
+2021,Ogun state,Fulani - Yoruba,1
+2021,Ondo state,Black Axe - Eyie,1
+2021,Ondo state,Fulani - Yoruba,1
+2021,Osun state,Black Axe - Eyie,1
+2021,Osun state,Government of Nigeria - Civilians,1
+2021,Oyo state,Fulani - Yoruba,1
+2021,Oyo state,Government of Nigeria - Civilians,1
+2021,Oyo state,Hausa - Yoruba,1
+2021,Plateau state,Fulani - Irigwe,1
+2021,Rivers state,Government of Nigeria - Civilians,1
+2021,Rivers state,Nigeria: Biafra,1
+2021,Sokoto state,Government of Nigeria - Civilians,1
+2021,Sokoto state,IS - Civilians,1
+2021,Sokoto state,Nigeria: Islamic State,1
+2021,Sokoto state,Yan Sakai - Civilians,1
+2021,Taraba state,Ambazonia insurgents - Civilians,1
+2021,Taraba state,Fulani - Tiv,1
+2021,Taraba state,Jukun - Tiv,1
+2021,Yobe state,IS - Civilians,1
+2021,Yobe state,IS - Yan Gora,1
+2021,Yobe state,Nigeria: Islamic State,1
+2021,Zamfara state,Yan Sakai - Civilians,1
