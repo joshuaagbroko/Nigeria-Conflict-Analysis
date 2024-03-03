@@ -1,4 +1,4 @@
-## Conflict Data Analysis Project Overview 
+## Nigeria Conflict Data Analysis Project Overview 
 This repository contains code and data for analyzing conflict data, particularly focusing on incidents in Nigeria. The project aims to gain insights into the patterns, trends, and dynamics of conflicts in the region.
 
 ### Table of Contents 
