@@ -2,13 +2,16 @@
 This repository contains code and data for analyzing conflict data, particularly focusing on incidents in Nigeria. The project aims to gain insights into the patterns, trends, and dynamics of conflicts in the region.
 
 ### Table of Contents 
-Introduction 
-Contents 
-Installation 
-Usage 
-Data 
-Analysis 
-Contributing License
+- Introduction 
+- Contents 
+- Installation 
+- Usage 
+- Data 
+- Analysis
+- Requirements 
+- Contributing
+- License
+  
 
 ## Introduction 
 This project explores conflict data from Nigeria, covering various aspects such as types of violence, involved parties, geographical locations, and temporal dynamics. By analyzing this data, we aim to understand the nature of conflicts in the region and identify potential patterns and trends.
@@ -28,23 +31,23 @@ The code in this repository can be used to perform various analyses on the confl
 ## Data Exploration with SQL 
 In the initial phase of the project, SQL queries were used to explore and preprocess the dataset. Some of the SQL operations performed include:
 
-Filtering and subsetting the dataset based on specific criteria. 
-Calculating aggregate statistics such as counts, sums, and averages. 
-Subsetting for Visualization in Tableau 
+- Filtering and subsetting the dataset based on specific criteria. 
+- Calculating aggregate statistics such as counts, sums, and averages. 
+- Subsetting for Visualization in Tableau 
 
 After data exploration with SQL, the dataset was prepared for visualization in Tableau. This involved:
 
-Selecting relevant columns for visualization. 
-Filtering and aggregating data to create meaningful insights. 
-Exporting the subsetted data for use in Tableau.
+- Selecting relevant columns for visualization. 
+- Filtering and aggregating data to create meaningful insights. 
+- Exporting the subsetted data for use in Tableau.
 
 ## Tableau Dashboard 
 Using Tableau, a dynamic dashboard was created to visualize various aspects of conflict incidents in Nigeria. The dashboard includes:
 
-Interactive visualizations such as maps, charts, and graphs. 
-Filters and parameters for users to explore the data. 
-Annotations and tooltips to provide additional context. 
-Trends and patterns over time and across different regions.
+- Interactive visualizations such as maps, charts, and graphs. 
+- Filters and parameters for users to explore the data. 
+- Annotations and tooltips to provide additional context. 
+- Trends and patterns over time and across different regions.
 
 ## Data 
 The data used in this project is sourced from UCDP Georeferenced Event Dataset. This dataset is UCDP's most disaggregated dataset, covering individual events of organized violence (phenomena of lethal violence occurring at a given time and place). These events are sufficiently fine-grained to be geo-coded down to the level of individual villages, with temporal durations disaggregated to single, individual days.
@@ -52,11 +55,17 @@ The data used in this project is sourced from UCDP Georeferenced Event Dataset. 
 ## Analysis
 The analysis includes various exploratory data analysis (EDA) techniques to uncover insights from the conflict data. This includes:
 
-Temporal analysis of conflict incidents over time 
-Geospatial analysis to visualize the distribution of conflicts across Nigeria 
-Analysis of casualty statistics and trends 
-Identification of major conflict parties and their involvement
+- Temporal analysis of conflict incidents over time 
+- Geospatial analysis to visualize the distribution of conflicts across Nigeria 
+- Analysis of casualty statistics and trends 
+- Identification of major conflict parties and their involvement
 
+## Requirements
+
+- SQL database (e.g., MySQL, SQL Server) for data preprocessing.
+- Tableau Desktop or Tableau Public for visualization.
+- R and and an IDE (e.g. RStudio)
+  
 ## Contributing 
 Contributions to this project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
