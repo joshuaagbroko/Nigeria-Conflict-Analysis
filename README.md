@@ -17,10 +17,10 @@ This repository contains code and data for analyzing conflict data, particularly
 This project explores conflict data from Nigeria, covering various aspects such as types of violence, involved parties, geographical locations, and temporal dynamics. By analyzing this data, we aim to understand the nature of conflicts in the region and identify potential patterns and trends.
 
 ## Contents
-Data/: Contains the raw and cleaned datasets used in the analysis.
-Scripts/: Includes R and  SQL scripts used for data exploration and preprocessing.
-Tableau/: Contains the Tableau workbook and visualizations for the conflict analysis dashboard.
-Installation To run the code in this repository, you'll need to have R installed on your system. Additionally, ensure you have the required R packages installed by running:
+- Data/: Contains the raw and cleaned datasets used in the analysis.
+- Scripts/: Includes R and  SQL scripts used for data exploration and preprocessing.
+- Tableau/: Contains the Tableau workbook and visualizations for the conflict analysis dashboard.
+- Installation To run the code in this repository, you'll need to have R installed on your system. Additionally, ensure you have the required R packages installed by running:
 
 /: install.packages(c("tidyverse", "ggplot2", "leaflet")) 
 
